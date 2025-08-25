@@ -1,0 +1,23 @@
+{
+  "name": "project-16",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "true",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/index.js",
+    "start": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@mistralai/mistralai": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^4.94.0"
+  }
+}
